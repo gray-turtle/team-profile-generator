@@ -19,7 +19,8 @@
     "url": "https://github.com/gray-turtle/team-profile-generator/issues"
   },
   "homepage": "https://github.com/gray-turtle/team-profile-generator#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^26.1.0"
   }
 }
