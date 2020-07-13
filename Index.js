@@ -52,7 +52,7 @@ const engineerQuestions = [
     },
     {
       type: 'text',
-      name: 'office',
+      name: 'github',
       message: 'Enter engineer\'s github username: '
     },
     {
